@@ -1,0 +1,14 @@
+{
+	"category" : "AlatarToFamix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"document" ],
+	"name" : "ATFLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
